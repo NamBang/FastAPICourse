@@ -1,0 +1,5 @@
+*********Multiple inheritance**********
+In the multiple inheritance, all the parent classes have the same methods.
+The methods of first parent when child class inherite have the high prority.
+
+********************************

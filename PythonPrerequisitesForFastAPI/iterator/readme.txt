@@ -1,4 +1,5 @@
 """Iterator
+- Iterator is an object that ca be iterated using a loop. They give us one element at time. 
 iterable: list, tuple, dictionary...
 Iter is a object that alow we get each element.
 Have two metho __iter__() and __next__() methods

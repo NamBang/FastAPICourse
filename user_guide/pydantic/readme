@@ -1,0 +1,15 @@
+*********Pydantic********************************
+Pydantic is useful for data validation and type hints
+
+
+***********************Common use cases**********
+1. Acepting optional values:
+2. Accepting only a subset of strings.
+3. Getting dynamic values at runtime
+4. Properties as Pydantic Models
+
+***********************Filed, default_factory parameters****************
+- Default_factory: Use it whenever we want to evaluate the value of a property at runtime.
+- Hooks: the same parameters of function
+- validator: single field validation
+- root_valicator: Multiple field validation
